@@ -1,0 +1,9 @@
+Building PunisherCoin
+
+See doc/readme-qt.rst for instructions on building PunisherCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PunisherCoin.
+
+See doc/build-*.txt for instructions on building punishercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PunisherCoin.
